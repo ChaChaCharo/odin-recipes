@@ -1,0 +1,15 @@
+a {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Helvetica, Verdana, sans-serif;
+	color : #57392d;
+	text-decoration: none;
+	border-bottom: 2px solid #57392d;
+}
+
+a:hover {
+	transition: .4s;
+	background-color: #57392d;
+	color: #fafafa;
+	padding-left: 10px;
+}
